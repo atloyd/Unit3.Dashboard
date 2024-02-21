@@ -1,5 +1,3 @@
-import { mockTransactions } from "../mockData";
-
-default export function PrimaryDashboard() {
-    const 
+export default function PrimaryDashboard() {
+    return <div>Dashboard</div> 
 }
