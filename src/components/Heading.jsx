@@ -1,6 +1,5 @@
-import { useState } from 'react';
-import { mockTransactions } from '../mockData';
+/* eslint-disable react/prop-types */
 
-default export function Heading() {
-    
+export default function Heading() {
+    return <div>Header</div>
 }
